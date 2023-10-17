@@ -1,0 +1,13 @@
+﻿.tokyo_tm_info ul .shortleftju span:first-child {
+    min-width: 170px;
+}
+
+a {
+    color: darkblue;
+}
+
+@media (max-width: 768px) {
+    .tokyo_tm_info ul .shortrightju span:first-child {
+        min-width: 170px;
+    }
+}
